@@ -9,16 +9,31 @@ The program starts from `26. Oct. 2021` to `2. Dec. 2021`.
 - Aung Min Khant
 - Nyein Chan Aung
 
+## Course Outlines
+
+| Week | Topic | Trainer |
+| --- | --- | ---:|
+| 1 | Introduction to Programming and Web | Aung Paing |
+| 1 | Github | Aung Paing |
+| 2 | HTML |  Nyein Chan Aung |
+| 2 | HTML / CSS | Nyein Chan Aung / Aung Paing |
+| 3 | CSS | Aung Paing | 
+| 3 | Project 1. Portfolio and Github page hosting | Aung Paing | 
+| 4 | Javascript : Intro to JS, Data Types and Condition | Khant |
+| 4 | Javascript : Loop and Array | Khant |
+| 5 | Javascript : Function, Class and Object | Khant |
+| 5 | Project 2. BMI calculator | Khant |
+| 6 | Project 3. Calculator | Nyein Chan Aung |
+| 6 | Project 4. Todo List | Aung Paing |
+
 ## Mini-Project
-1. [BMI Calculator](#bmi_cal)
-2. 
-3. [Github Page Hosted Portfolio](#portfolio)
+1. [Github Page Hosted Portfolio](#portfolio)
+2. [BMI Calculator](#bmi_cal)
+3. [Calculator](#calculator)
+4. [Todo List](#todo)
 
 
-<h3 id="bmi_cal">1. BMI Calculator</h3>
-
-
-<h3 id="portfolio">3. Github Page Hosted Portfolio</h3>
+<h3 id="portfolio">1. Github Page Hosted Portfolio</h3>
 
 - responsive website
 - css variable
