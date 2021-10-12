@@ -19,6 +19,7 @@ body {
 *::after {
   padding: 0;
   margin: 0;
+  font-size: 22px;
 }
 
 a {
@@ -26,8 +27,16 @@ a {
   color: white;
 }
 
-.container{
-  margin-top:50px;
+h1 {
+  font-size: 2.5rem;
+}
+
+#course_name {
+  color: yellow;
+}
+
+.container {
+  margin-top: 50px;
 }
 
 /* #region NavLink */
@@ -65,7 +74,7 @@ li a {
   align-items: center;
   background-image: url("./images/spaceX.jpg");
   /* background-repeat: no-repeat; */
-  background-size:cover;
+  background-size: cover;
 }
 
 .hero h1 {
@@ -85,9 +94,10 @@ li a {
 }
 
 .projects h2 {
+  font-size:1.8rem;
+  margin: 1rem 0;
   text-align: center;
   color: var(--main-white);
-  text-decoration: underline;
 }
 
 .projects-grid {
@@ -100,6 +110,7 @@ li a {
 }
 
 .projects-grid a {
+  border-radius: 1rem;
   background-color: var(--main-gray);
   height: 260px;
 }
@@ -138,7 +149,9 @@ li a {
 }
 
 .contact h2 {
+  font-size:1.5rem;
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 .contact-links {
@@ -151,11 +164,12 @@ li a {
 .contact-links a {
   display: flex;
   align-items: center;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
+  transition: transform 500ms ease-out;
 }
 
-.contact-links a:hover{
-
+.contact-links a:hover {
+  transform: translateY(10px)
 }
 
 .contact-links a img {
