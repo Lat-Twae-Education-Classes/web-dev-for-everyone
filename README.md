@@ -51,3 +51,8 @@ The program starts from `26. Oct. 2021` to `2. Dec. 2021`.
     - grid-gap
 - Sections [Header, Navigation, Hero, Project with Card, Contact, Footer]
 - Hosting website to Github Page.
+- Introduction to Javascript
+- Data Types
+- Expressions & Statements
+- Arrays & Objects
+- Loops & Function
