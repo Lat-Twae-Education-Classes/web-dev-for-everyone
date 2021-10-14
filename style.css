@@ -20,6 +20,7 @@ body {
   padding: 0;
   margin: 0;
   font-size: 22px;
+  font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -32,7 +33,7 @@ h1 {
 }
 
 #course_name {
-  color: yellow;
+  color: var(--main-red);
 }
 
 .container {
@@ -66,19 +67,20 @@ li a {
 
 /* #region hero  */
 .hero {
-  height: 20rem;
+  height:26rem;
   background-color: var(--main-gray);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("./images/spaceX.jpg");
-  /* background-repeat: no-repeat; */
-  background-size: cover;
+  background-image: url("./images/img3.jpg");
+  background-color: var(--main-white);
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
 .hero h1 {
-  color: var(--main-red);
+  color: var(--main-white);
 }
 
 .hero p {
@@ -90,7 +92,7 @@ li a {
 /* #region projects  */
 .projects {
   background-color: var(--main-blue);
-  padding-top: 2rem;
+  padding: 2rem;
 }
 
 .projects h2 {
@@ -103,13 +105,14 @@ li a {
 .projects-grid {
   padding: 1rem 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-gap: 1.5rem;
   justify-items: center;
   align-items: center;
 }
 
 .projects-grid a {
+  padding-bottom: 1rem;
   border-radius: 1rem;
   background-color: var(--main-gray);
   height: 260px;
@@ -117,11 +120,12 @@ li a {
 
 .project-img {
   height: 200px;
+  width:240px;
 }
 
 .projects-grid a p {
   text-align: center;
-  padding-top: 1rem;
+  padding: 1rem 0;
   color: white;
   font-size: larger;
 }
@@ -139,7 +143,7 @@ li a {
 
 /* #region contact  */
 .contact {
-  padding: 2rem 0;
+  padding: 3rem 0;
   background-color: var(--main-gray);
   color: var(--main-white);
   display: flex;
@@ -149,7 +153,7 @@ li a {
 }
 
 .contact h2 {
-  font-size:1.5rem;
+  font-size:1.8rem;
   text-align: center;
   margin-bottom: 1rem;
 }
@@ -173,10 +177,11 @@ li a {
 }
 
 .contact-links a img {
-  height: 20px;
+  height: 32px;
 }
 .contact-links a span {
   margin-left: 10px;
+  font-size:22px;
 }
 /* #endregion */
 
