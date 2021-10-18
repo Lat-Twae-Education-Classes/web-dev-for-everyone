@@ -56,3 +56,15 @@ The program starts from `26. Oct. 2021` to `2. Dec. 2021`.
 - Expressions & Statements
 - Arrays & Objects
 - Loops & Function
+- Introdution to HTML
+- Simple HTML 
+- Elements and Tags
+- HTML Headings
+- HTML Paragraph tag
+- Text Formatting
+- Anchor Tag
+- Image Tag
+- <div>
+- HTML List
+- HTML Table
+- HTML Form
