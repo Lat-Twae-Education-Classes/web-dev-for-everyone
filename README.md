@@ -64,7 +64,7 @@ The program starts from `26. Oct. 2021` to `2. Dec. 2021`.
 - Text Formatting
 - Anchor Tag
 - Image Tag
-- <div>
+- Section or division
 - HTML List
 - HTML Table
 - HTML Form
