@@ -31,12 +31,13 @@ The program starts from `2. Nov. 2021` to `9. Dec. 2021`.
 Title | Trainer | Time Estimate
 --- | --- | ---
 CSS Framework : Bootstrap | Aung Paing | 1 week
+Javascript revision | Aung Min Khant | 1 day
 Object Oriented Programming (OOP)  | Nyein Chan Aung | 1 week
-Event Driven programming | Aung Paing | 1 day
+Functional Programming | Aung Min Khant | 1 day
 API (Async, Await, REST API, AJAX) | Aung Min Khant | 1 week
-Data Handling, (MySQL, JSON data handling) | Nyein Chan Aung |  black box
-Node JS, module | Aung Min Khant | 1 week
-
+Module | Aung Min Khant | 1 day
+Event Driven programming | Aung Paing | 1 day
+Data Handling (MySQL, JSON data handling) | Nyein Chan Aung |  1 week
 
 
 MySQL : localhost , firebase something like this.
