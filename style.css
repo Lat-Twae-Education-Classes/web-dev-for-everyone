@@ -14,9 +14,7 @@ body {
   position: relative;
 }
 
-*,
-*::before,
-*::after {
+*{
   padding: 0;
   margin: 0;
   font-size: 22px;
@@ -106,9 +104,8 @@ li a {
   padding: 1rem 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  grid-gap: 1.5rem;
+  gap: 1.5rem;
   justify-items: center;
-  align-items: center;
 }
 
 .projects-grid a {
