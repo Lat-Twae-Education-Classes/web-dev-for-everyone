@@ -34,7 +34,7 @@ CSS Framework : Bootstrap | Aung Paing | 1 week
 Javascript revision | Aung Min Khant | 1 day
 Object Oriented Programming (OOP)  | Nyein Chan Aung | 1 week
 Functional Programming | Aung Min Khant | 1 day
-API (Async, Await, REST API, AJAX) | Aung Min Khant | 1 week
+API (Async, Await, REST API, AJAX) | Aung Min Khant | 1 day
 Module | Aung Min Khant | 1 day
 Event Driven programming | Aung Paing | 1 day
 Data Handling (MySQL, JSON data handling) | Nyein Chan Aung |  1 week
